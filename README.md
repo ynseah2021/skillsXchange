@@ -25,6 +25,10 @@ User Classes
 - Get all classes that user has registered for and host - intended for frontend calendar display
 - Future: frontend calendar view
 
+Future features plan:
+- Community forums for users to interact and leave comments
+- Reviews system for user to gain reviews on the classes that they have hosted
+- Analytics to show trending classes
 
 ## API Appendix
 
